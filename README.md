@@ -1,4 +1,4 @@
-# Project Name
+# Ethereum Blob Transactions - Golang example
 
 This project is a Go application that connects to an Ethereum RPC provider and sends a blob transaction based
 on the new EIP-4844.
