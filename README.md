@@ -44,10 +44,8 @@ This will connect to the Ethereum network, create a blob transaction, sign it wi
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+We grow when we share. Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-### we grow when we share
