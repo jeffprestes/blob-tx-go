@@ -1,7 +1,10 @@
 # Ethereum Blob Transactions - Golang example
 
 This project is a Go application that connects to an Ethereum RPC provider and sends a blob transaction based
-on the new EIP-4844.
+on the new EIP-4844. Please read the main.go file to learn. If I'd like you to go ahead, copy and use it as an 
+example in your project.
+
+Do not forget to give a star 😉
 
 ## Prerequisites
 
